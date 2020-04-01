@@ -7,69 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dadb76c-9a28-4169-a841-993a103d8758" name="Default" comment="权限管理系统分批上传1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/american-express.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar3(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/boxed-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/boxed-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/center.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/cirrus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/mestro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/paypal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/paypal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user1-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user2-160x160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user3-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user4-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user5-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user6-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user7-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user8-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/boxed-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/boxed-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/american-express.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/cirrus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/mestro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/paypal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/paypal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/default-50x50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user1-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user2-160x160.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user3-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user4-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user5-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user6-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user7-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user8-128x128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/images/arrows.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/plugins/icons.png" />
@@ -106,12 +43,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/skins/moono/images/lock.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/skins/moono/images/refresh.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/skins/moono/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/alpha(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/alpha-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/hue-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/hue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/saturation.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/extensions/AutoFill/images/filler.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/extensions/ColReorder/images/insert.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/extensions/Scroller/images/loading-background.png" />
@@ -138,258 +69,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/images/sort_both.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/images/sort_desc.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/images/sort_desc_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/flat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/flat@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/futurico/futurico.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/futurico/futurico@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/line@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/minimal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/minimal@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/polaris/polaris.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/polaris/polaris@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/aero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/aero@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/blue@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/green@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/grey@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/orange@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/pink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/pink@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/purple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/purple@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/red@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/square@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/yellow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/img/sprite-skin-flat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/img/sprite-skin-nice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/itcast_ssm_web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/OrdersController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/ProductController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/test/test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/spring-security.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/css/style(1).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/failer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/aside.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/main.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-pages-list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-show.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-list1.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/AdminLTE.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/AdminLTE.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social(1).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.min(1).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/app.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/pages/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/pages/dashboard2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ar(1).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.rs-latin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.rs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/css/bootstrap-markdown.min(1).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/css/bootstrap-markdown.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/js/bootstrap-markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/js/markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/js/to-markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/less/bootstrap-markdown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.kr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ptBR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.zh-tw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/scss/bootstrap-markdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-slider/bootstrap-slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-slider/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-datetimepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/chartjs/Chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/chartjs/Chart.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/CHANGES(1).md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/CHANGES.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/LICENSE.md" />
@@ -672,10 +351,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/skins/moono/editor_iequirks.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/skins/moono/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ckeditor/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/dataTables.bootstrap.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/dataTables.bootstrap.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datatables/dataTables.bootstrap.min.js" />
@@ -907,203 +582,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datepicker/locales/bootstrap-datepicker.vi.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datepicker/locales/bootstrap-datepicker.zh-CN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/datepicker/locales/bootstrap-datepicker.zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/daterangepicker.zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fastclick/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fastclick/fastclick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.colorhelpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.colorhelpers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.canvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.categories.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.categories.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.crosshair.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.crosshair.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.errorbars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.errorbars.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.fillbetween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.fillbetween.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.image.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.navigate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.navigate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.selection.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.stack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.symbol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.symbol.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.threshold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.threshold.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.time.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/flat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/futurico/futurico.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/icheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/icheck.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/line.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/minimal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/polaris/polaris.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/_all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/aero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/pink.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/red.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/square.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/yellow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.date.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.numeric.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.phone.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.regex.extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/phone-codes/phone-be.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/phone-codes/phone-codes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/phone-codes/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/css/ionicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/css/ionicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.skinFlat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.skinNice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jQuery/jquery-2.2.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jQueryUI/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jQueryUI/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-1.2.2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-usa-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/knob/jquery.knob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/morris/morris.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/morris/morris.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/morris/morris.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/raphael/raphael-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ar(1).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sr-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.full.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/slimScroll/jquery.slimscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/slimScroll/jquery.slimscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/sparkline/jquery.sparkline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/sparkline/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable(1).css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable.theme.default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../itcast_ssm/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../itcast_ssm/out/" />
     <ignored path="$PROJECT_DIR$/../itcast_ssm/target/" />
@@ -1768,7 +1246,7 @@
       <workItem from="1585710343483" duration="1919000" />
       <workItem from="1585714809032" duration="2123000" />
       <workItem from="1585717063577" duration="2584000" />
-      <workItem from="1585719841254" duration="723000" />
+      <workItem from="1585719841254" duration="1138000" />
     </task>
     <task id="LOCAL-00001" summary="权限管理系统v0.0.1">
       <created>1585712022728</created>
@@ -1847,7 +1325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585720488803</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="权限管理系统分批上传1">
+      <created>1585720977750</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585720977750</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1868,7 +1353,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93877000" />
+    <option name="totallyTimeSpent" value="94292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2275,6 +1760,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
