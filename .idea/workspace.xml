@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="itcast_ssm_web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dadb76c-9a28-4169-a841-993a103d8758" name="Default" comment="权限管理系统分批上传1">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/american-express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar3(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/avatar5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/boxed-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/boxed-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/center.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/cirrus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/mestro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/paypal2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/photo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user1-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user2-160x160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user3-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user4-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user5-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user6-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user7-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/user8-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/img/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/avatar5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/boxed-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/boxed-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/american-express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/cirrus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/mestro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/paypal2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/credit/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/default-50x50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/photo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user1-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user2-160x160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user3-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user4-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user5-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user6-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user7-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/img/user8-128x128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/alpha(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/alpha-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/hue-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/flat@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/futurico/futurico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/futurico/futurico@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/line@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/minimal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/minimal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/polaris/polaris.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/polaris/polaris@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/aero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/aero@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/blue@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/grey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/orange@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/pink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/pink@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/purple@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/red@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/square@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/yellow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/img/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/img/sprite-skin-nice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/artifacts/itcast_ssm_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/artifacts/itcast_ssm_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_orm_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/itcast_ssm_dao.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IMemberDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IOrdersDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IProductDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IRoleDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/ITravellerDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IUserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/itcast_ssm_domain.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Member.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Orders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Permission.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Traveller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/UserInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/itcast_ssm_service.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IOrdersService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IProductService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IUserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/IUserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/OrdersServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/ProductServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/itcast_ssm_utils.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/src/main/java/com/itheima/ssm/utils/BCryptPasswordEncoderUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/src/main/java/com/itheima/ssm/utils/DateUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/itcast_ssm_web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/OrdersController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/ProductController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/test/test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/spring-security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/css/style(1).css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/failer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/aside.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/main.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-pages-list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-show.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-list1.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/AdminLTE.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/AdminLTE.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social(1).css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.min(1).css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/app.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/pages/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/adminLTE/js/pages/dashboard2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ar(1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/css/bootstrap-markdown.min(1).css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/css/bootstrap-markdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/js/bootstrap-markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/js/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/js/to-markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/less/bootstrap-markdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ptBR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/locale/bootstrap-markdown.zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-markdown/scss/bootstrap-markdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-slider/bootstrap-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-slider/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/chartjs/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/chartjs/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/colorpicker/bootstrap-colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/daterangepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/daterangepicker/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fastclick/fastclick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fastclick/fastclick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.colorhelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.colorhelpers.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.canvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.canvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.categories.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.crosshair.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.errorbars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.errorbars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.fillbetween.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.navigate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.navigate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.selection.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.stack.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.symbol.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.threshold.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/flot/jquery.flot.time.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/flat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/flat/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/futurico/futurico.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/icheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/line/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/minimal/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/polaris/polaris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/_all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/aero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/pink.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/square.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/iCheck/square/yellow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.date.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.numeric.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.phone.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/jquery.inputmask.regex.extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/phone-codes/phone-be.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/phone-codes/phone-codes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/input-mask/phone-codes/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/css/ionicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/css/ionicons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.skinFlat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionslider/ion.rangeSlider.skinNice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jQuery/jquery-2.2.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jQueryUI/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jQueryUI/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-1.2.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-usa-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/knob/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/morris/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/morris/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/morris/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/raphael/raphael-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ar(1).js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sr-Cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/i18n/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/slimScroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/slimScroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/sparkline/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/sparkline/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/timepicker/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable(1).css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/treeTable/jquery.treetable.theme.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../itcast_ssm/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../itcast_ssm/out/" />
+    <ignored path="$PROJECT_DIR$/../itcast_ssm/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/target/" />
+    <ignored path="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="itcast_ssm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../</find>
+      <find>product-list</find>
+      <find>${pageContext.request.contextPath}</find>
+      <find>login.do</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>${pageContext</replace>
+      <replace>${pageContext.request.contextPath}</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../itcast_ssm" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../itcast_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/test/Test.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/test/test.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-list.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/main.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/src/main/java/com/itheima/ssm/utils/DateUtils.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-add.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Product.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/product-list1.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IProductService.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-list.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Orders.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Member.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Traveller.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IProductDao.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/aside.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-pages-list.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/OrdersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IMemberDao.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/ITravellerDao.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IOrdersDao.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/OrdersController.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Permission.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Role.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IRoleDao.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IRoleDao.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IOrdersService.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/UserInfo.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-add.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-list.jsp" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/IUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/src/main/java/com/itheima/ssm/utils/BCryptPasswordEncoderUtils.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IUserDao.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/src/main/java/Solution.java" />
+        <option value="$PROJECT_DIR$/../itcast_ssm/src/test/java/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../myjava/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="J:\myjava\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast_ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast_ssm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast_ssm_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast_ssm_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="285" />
+    <option name="y" value="138" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itcast_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itcast_ssm" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\itcast_ssm\itcast_ssm_web\src\main\webapp\pages" />
+      <recent name="J:\itcast_ssm\itcast_ssm_web\src\main\webapp" />
+      <recent name="J:\itcast_ssm\itcast_ssm_web\src\main\webapp\img" />
+      <recent name="J:\itcast_ssm\itcast_ssm_web\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\itcast_ssm\itcast_ssm_web\src\main\webapp\pages" />
+      <recent name="J:\itcast_ssm\itcast_ssm_web\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.run1">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ssm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ssm.utils.BCryptPasswordEncoderUtils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../itcast_ssm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="itcast_ssm_utils" />
+      <envs />
+    </configuration>
+    <configuration name="Test.run1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="itcast_ssm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="run1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../itcast_ssm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_itcast_ssm" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53861" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53859" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration name="main.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8989/pages/main.jsp" />
+      <deployment>
+        <artifact name="itcast_ssm_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="main_jsp_itcast_ssm" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="itcast_ssm_web:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="ssm_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#JAVA_HOME" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="ssm_web_test" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.99" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="itcast_ssm_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_itcast_ssm" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54287" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="itcast_ssm_web:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="test.run1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="itcast_ssm_web" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.itheima.ssm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ssm.test.test" />
+      <option name="METHOD_NAME" value="run1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Maven.ssm_web" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.ssm_web_test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.test.run1" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.main.jsp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BCryptPasswordEncoderUtils" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.Test.run1" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Test.run1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BCryptPasswordEncoderUtils" />
+        <item index="2" class="java.lang.String" itemvalue="Tomcat Server.main.jsp" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.test.run1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Genesis\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dadb76c-9a28-4169-a841-993a103d8758" name="Default" comment="" />
+      <created>1584783372136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584783372136</updated>
+      <workItem from="1584783376246" duration="5466000" />
+      <workItem from="1584798012025" duration="1591000" />
+      <workItem from="1584799650103" duration="2379000" />
+      <workItem from="1584802063592" duration="334000" />
+      <workItem from="1584928385648" duration="6143000" />
+      <workItem from="1584935782319" duration="727000" />
+      <workItem from="1584936553367" duration="164000" />
+      <workItem from="1584936734347" duration="19332000" />
+      <workItem from="1584969620422" duration="1826000" />
+      <workItem from="1585017921730" duration="12703000" />
+      <workItem from="1585123523787" duration="7171000" />
+      <workItem from="1585192064095" duration="25229000" />
+      <workItem from="1585298872009" duration="1028000" />
+      <workItem from="1585300801267" duration="1154000" />
+      <workItem from="1585393158568" duration="790000" />
+      <workItem from="1585457697178" duration="491000" />
+      <workItem from="1585710343483" duration="1919000" />
+      <workItem from="1585714809032" duration="2123000" />
+      <workItem from="1585717063577" duration="2584000" />
+      <workItem from="1585719841254" duration="342000" />
+    </task>
+    <task id="LOCAL-00001" summary="权限管理系统v0.0.1">
+      <created>1585712022728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585712022728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="权限管理系统v0.0.1">
+      <created>1585712335563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585712335563</updated>
+    </task>
+    <task id="LOCAL-00003" summary="权限管理系统分批上传">
+      <created>1585714901945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585714901945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="权限管理系统分批上传1">
+      <created>1585714953999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585714953999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="权限管理系统分批上传2">
+      <created>1585715068713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585715068713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="权限管理系统分批上传1">
+      <created>1585716437440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585716437440</updated>
+    </task>
+    <task id="LOCAL-00007" summary="权限管理系统分批上传1">
+      <created>1585717684234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585717684234</updated>
+    </task>
+    <task id="LOCAL-00008" summary="权限管理系统分批上传2">
+      <created>1585718663021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585718663021</updated>
+    </task>
+    <task id="LOCAL-00009" summary="权限管理系统分批上传2">
+      <created>1585719450819</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585719450819</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_run1 - 2020.03.27 at 17h 21m 42s.xml">
+      <configuration name="Test.run1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_run1 - 2020.03.27 at 17h 22m 05s.xml">
+      <configuration name="Test.run1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_run1 - 2020.03.27 at 17h 29m 22s.xml">
+      <configuration name="Test.run1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_run1 - 2020.03.21 at 21h 49m 06s.xml">
+      <configuration name="test.run1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_run1 - 2020.03.21 at 22h 19m 31s.xml">
+      <configuration name="test.run1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93496000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5107296" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16201717" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15772532" sideWeight="0.5059423" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15772532" sideWeight="0.5059423" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../itcast_ssm" />
+    </ignored-roots>
+    <MESSAGE value="权限管理系统v0.0.1" />
+    <MESSAGE value="权限管理系统分批上传" />
+    <MESSAGE value="权限管理系统分批上传3" />
+    <MESSAGE value="权限管理系统分批上传1" />
+    <MESSAGE value="权限管理系统分批上传2" />
+    <option name="LAST_COMMIT_MESSAGE" value="权限管理系统分批上传2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="147" column="39" lean-forward="false" selection-start-line="147" selection-start-column="31" selection-end-line="147" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.1.RELEASE/spring-security-core-5.0.1.RELEASE-sources.jar!/org/springframework/security/core/GrantedAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.1.RELEASE/spring-security-core-5.0.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1045">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IRoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/aside.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="63" column="100" lean-forward="false" selection-start-line="63" selection-start-column="100" selection-end-line="63" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="40" column="81" lean-forward="false" selection-start-line="40" selection-start-column="81" selection-end-line="40" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-pages-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2015">
+          <caret line="244" column="63" lean-forward="false" selection-start-line="244" selection-start-column="63" selection-end-line="244" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IOrdersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/page/PageMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="108" column="30" lean-forward="false" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/orders-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="189" column="36" lean-forward="false" selection-start-line="189" selection-start-column="36" selection-end-line="189" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5712">
+          <caret line="238" column="11" lean-forward="true" selection-start-line="238" selection-start-column="11" selection-end-line="238" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.2.RELEASE/spring-aop-5.0.2.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.2.RELEASE/spring-webmvc-5.0.2.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="568" column="0" lean-forward="false" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.2.RELEASE/spring-webmvc-5.0.2.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="424" column="0" lean-forward="false" selection-start-line="424" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.2.RELEASE/spring-webmvc-5.0.2.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="487" column="0" lean-forward="false" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.0.1.RELEASE/spring-security-web-5.0.1.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.0.1.RELEASE/spring-security-web-5.0.1.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.0.1.RELEASE/spring-security-web-5.0.1.RELEASE-sources.jar!/org/springframework/security/web/context/SecurityContextPersistenceFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.0.1.RELEASE/spring-security-web-5.0.1.RELEASE-sources.jar!/org/springframework/security/web/FilterChainProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.2.RELEASE/spring-web-5.0.2.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="120" column="28" lean-forward="false" selection-start-line="120" selection-start-column="28" selection-end-line="120" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IOrdersDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="25" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/OrdersServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/OrdersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="39" column="27" lean-forward="true" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_domain/src/main/java/com/itheima/ssm/domain/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1326">
+          <caret line="151" column="70" lean-forward="true" selection-start-line="151" selection-start-column="70" selection-end-line="151" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/pages/user-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="119" column="80" lean-forward="false" selection-start-line="119" selection-start-column="80" selection-end-line="119" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/resources/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="52" column="102" lean-forward="false" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_utils/src/main/java/com/itheima/ssm/utils/BCryptPasswordEncoderUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_dao/src/main/java/com/itheima/ssm/dao/IUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/java/com/itheima/ssm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.1.RELEASE/spring-security-core-5.0.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="81" column="20" lean-forward="false" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_service/src/main/java/com/itheima/ssm/service/impl/IUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="1006" column="73" lean-forward="false" selection-start-line="1006" selection-start-column="14" selection-end-line="1006" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/src/main/java/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/src/test/java/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/plugins/ionicons/fonts/ionicons.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../itcast_ssm/itcast_ssm_web/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="54" column="62" lean-forward="true" selection-start-line="54" selection-start-column="62" selection-end-line="54" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>itcast_ssm_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>itcast_ssm_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
