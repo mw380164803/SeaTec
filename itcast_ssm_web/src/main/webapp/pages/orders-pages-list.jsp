@@ -460,6 +460,18 @@
 	<script
 		src="${pageContext.request.contextPath}/plugins/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js"></script>
 	<script>
+
+        $(function(){
+            $('#dataList').DataTable({
+                "scrollY": 200, //表格页面的长度
+                "scrollX": true,   //是否支持滚动
+                'paging': false, //关闭页码
+                'lengthChange': false,//关闭每页显示多少个选项
+                'info':false,//关闭页码底端信息
+                'searching':false,//关闭搜索栏
+
+            })});
+
 		function changePageSize() {
 			//获取下拉框的值
 			var pageSize = $("#changePageSize").val();

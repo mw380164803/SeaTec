@@ -19,6 +19,7 @@
     <context:component-scan base-package="com.itheima.ssm.dao"/>
 
     <context:property-placeholder location="classpath:db.properties"/>
+
     <!-- 配置连接池 -->
     <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
         <property name="driverClass" value="${jdbc.driver}" />
@@ -27,9 +28,12 @@
         <property name="password" value="${jdbc.password}" />
     </bean>
 
-    <!-- 把交给IOC管理 SqlSessionFactory -->
+    <!-- 把SqlSessionFactory的bean创建交给IOC管理  -->
     <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
         <property name="dataSource" ref="dataSource" />
+        <!--管理sqlMapConfig.xml-->
+        <property name="configLocation" value="classpath:sqlMapConfig.xml"/>
+
         <!-- 传入PageHelper的插件 -->
         <property name="plugins">
             <array>
@@ -46,7 +50,7 @@
         </property>
     </bean>
 
-    <!-- 扫描dao接口 -->
+    <!-- 扫描dao接口所在的包 -->
     <bean id="mapperScanner" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="com.itheima.ssm.dao"/>
     </bean>
@@ -57,8 +61,18 @@
         <property name="dataSource" ref="dataSource"/>
     </bean>
 
-    <tx:annotation-driven transaction-manager="transactionManager"/>
+    <!--配置事务通知-->
+    <tx:advice id="txAdvice">
 
+    </tx:advice>
+    <!--配置AOP增强-->
+    <aop:config >
+        <aop:advisor advice-ref="txAdvice" pointcut="execution(* com.itheima.ssm.service.impl.*.*(..))"/>
+    </aop:config>
+
+    <!--开启对注解的支持
+    <tx:annotation-driven transaction-manager="transactionManager"/>
+    -->
 </beans>
 
 

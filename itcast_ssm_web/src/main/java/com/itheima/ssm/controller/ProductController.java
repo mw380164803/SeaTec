@@ -35,6 +35,6 @@ public class ProductController {
     @RequestMapping("/save.do")
     public String save(Product product){
         iProductService.save(product);
-        return "redirect: findAll.do";
+        return "redirect:findAll.do";
     }
 }

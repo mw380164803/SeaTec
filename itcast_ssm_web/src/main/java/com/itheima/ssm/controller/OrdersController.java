@@ -33,7 +33,7 @@ public class OrdersController {
 
     //@RequestParam 将请求参数绑定到控制器参数上(通过页面请求的参数来进行实时分页)
     @RequestMapping("/findAll.do")
-    public ModelAndView findAll(@RequestParam(name="page",required = true,defaultValue = "1")int page,@RequestParam(name = "size",required = true,defaultValue = "3")int size){
+    public ModelAndView findAll(@RequestParam(name="page",required = true)int page,@RequestParam(name = "size",required = true)int size){
         ModelAndView modelAndView=new ModelAndView();
 
         List<Orders> lists=iOrdersService.findAll(page,size);
